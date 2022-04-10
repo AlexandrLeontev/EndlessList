@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">EndlessList</string>
+    <string name="app_name">EndlessLists</string>
+    <string name="toolbar_reddit_top_chart">EndlessList</string>
+    <string name="main_screen_drawer_layout_menu_title">Main Screen</string>
+    <string name="another_menu">Another menu</string>
+    <string name="reddit_top_chart_nav_header_title">EndlessList</string>
 </resources>

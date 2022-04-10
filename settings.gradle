@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "EndlessList"
+rootProject.name = "EndlessLists"
 include ':app'

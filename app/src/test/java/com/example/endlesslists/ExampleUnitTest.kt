@@ -1,4 +1,4 @@
-package com.example.endlesslist
+package com.example.endlesslists
 
 import org.junit.Test
 
